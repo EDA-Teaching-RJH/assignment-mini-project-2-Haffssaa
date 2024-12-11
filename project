@@ -92,4 +92,4 @@ while True:
         print(" oh next time :( bye!")  
         break  # Exit the loop 
     else:
-        print("Please type 'yes' or 'no'.")  # Handle invalid input
+        print("Please type 'yes' or 'no'.")  # Handle invalid inputs
